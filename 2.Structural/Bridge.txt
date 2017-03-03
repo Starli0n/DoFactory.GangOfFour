@@ -1,0 +1,11 @@
+Definition
+
+Decouple an abstraction from its implementation so that the two can vary independently.
+
+Structural code
+
+This structural code demonstrates the Bridge pattern which separates (decouples) the interface from its implementation. The implementation can evolve without changing clients which use the abstraction of the object.
+
+Real-world code
+
+This real-world code demonstrates the Bridge pattern in which a BusinessObject abstraction is decoupled from the implementation in DataObject. The DataObject implementations can evolve dynamically without changing any clients.

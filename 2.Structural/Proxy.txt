@@ -1,0 +1,11 @@
+Definition
+
+Provide a surrogate or placeholder for another object to control access to it.
+
+Structural code
+
+This structural code demonstrates the Proxy pattern which provides a representative object (proxy) that controls access to another similar object.
+
+Real-world code
+
+This real-world code demonstrates the Proxy pattern for a Math object represented by a MathProxy object.

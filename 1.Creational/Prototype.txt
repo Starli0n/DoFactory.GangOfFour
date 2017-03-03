@@ -1,0 +1,11 @@
+Definition
+
+Specify the kind of objects to create using a prototypical instance, and create new objects by copying this prototype.
+
+Structural code
+
+This structural code demonstrates the Prototype pattern in which new objects are created by copying pre-existing objects (prototypes) of the same class.
+
+Real-world code
+
+This real-world code demonstrates the Prototype pattern in which new Color objects are created by copying pre-existing, user-defined Colors of the same type.

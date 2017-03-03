@@ -1,0 +1,11 @@
+Definition
+
+Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
+
+Structural code
+
+This structural code demonstrates the Command pattern which stores requests as objects allowing clients to execute or playback the requests.
+
+Real-world code
+
+This real-world code demonstrates the Command pattern used in a simple calculator with unlimited number of undo's and redo's. Note that in C#  the word 'operator' is a keyword. Prefixing it with '@' allows using it as an identifier.

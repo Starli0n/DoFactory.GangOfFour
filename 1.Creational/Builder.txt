@@ -1,0 +1,11 @@
+Definition
+
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
+Structural code
+
+This structural code demonstrates the Builder pattern in which complex objects are created in a step-by-step fashion. The construction process can create different object representations and provides a high level of control over the assembly of the objects.
+
+Real-world code
+
+This real-world code demonstates the Builder pattern in which different vehicles are assembled in a step-by-step fashion. The Shop uses VehicleBuilders to construct a variety of Vehicles in a series of sequential steps.

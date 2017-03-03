@@ -1,0 +1,11 @@
+Definition
+
+Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
+
+Structural code
+
+This structural code demonstrates the Facade pattern which provides a simplified and uniform interface to a large subsystem of classes.
+
+Real-world code
+
+This real-world code demonstrates the Facade pattern as a MortgageApplication object which provides a simplified interface to a large subsystem of classes measuring the creditworthyness of an applicant.

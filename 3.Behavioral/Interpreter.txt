@@ -1,0 +1,11 @@
+Definition
+
+Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
+
+Structural code
+
+This structural code demonstrates the Interpreter patterns, which using a defined grammer, provides the interpreter that processes parsed statements.
+
+Real-world code
+
+This real-world code demonstrates the Interpreter pattern which is used to convert a Roman numeral to a decimal.

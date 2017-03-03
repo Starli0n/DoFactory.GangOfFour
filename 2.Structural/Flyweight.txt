@@ -1,0 +1,11 @@
+Definition
+
+Use sharing to support large numbers of fine-grained objects efficiently.
+
+Structural code
+
+This structural code demonstrates the Flyweight pattern in which a relatively small number of objects is shared many times by different clients.
+
+Real-world code
+
+This real-world code demonstrates the Flyweight pattern in which a relatively small number of Character objects is shared many times by a document that has potentially many characters.

@@ -1,0 +1,11 @@
+Definition
+
+Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+Structural code
+
+This structural code demonstrates the Iterator pattern which provides for a way to traverse (iterate) over a collection of items without detailing the underlying structure of the collection.
+
+Real-world code
+
+This real-world code demonstrates the Iterator pattern which is used to iterate over a collection of items and skip a specific number of items each iteration.

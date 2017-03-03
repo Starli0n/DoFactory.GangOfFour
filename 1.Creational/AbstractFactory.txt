@@ -1,0 +1,11 @@
+Definition
+
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes
+
+Structural code
+
+This structural code demonstrates the Abstract Factory pattern creating parallel hierarchies of objects. Object creation has been abstracted and there is no need for hard-coded class names in the client code.
+
+Real-world code
+
+This real-world code demonstrates the creation of different animal worlds for a computer game using different factories. Although the animals created by the Continent factories are different, the interactions among the animals remain the same.
